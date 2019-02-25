@@ -4,7 +4,7 @@
 
 Pour vérifier que nous avons bien configuré notre lab, on ping `server1` depuis `client1`et `client2`, et réciproquement :  
   
-![IMG/IMG1](./images/check.PNG)  
+![/IMG/IMG1.PNG](./images/check.PNG)  
   
 ## III. DHCP
 
